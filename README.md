@@ -1,5 +1,6 @@
 # SoundY
 
+Old project (25/10/2011) posted on https://www.robotshop.com/community/robots/show/soundy
 
 This is easy Beam robot,I used 1381 circuit and i replaced the motor with the buzzer.
 
