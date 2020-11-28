@@ -21,8 +21,3 @@ This is easy Beam robot,I used 1381 circuit and i replaced the motor with the bu
 
 ![](https://github.com/AndreAzzalin/SoundY/blob/main/Immagine1.jpg)
 
-## In Action
-
-[![](![](https://github.com/AndreAzzalin/SoundY/blob/main/Immagine2.jpg
-)](https://www.youtube.com/watch?v=L4zQ33sabDY&ab_channel=Mangusta)
-
